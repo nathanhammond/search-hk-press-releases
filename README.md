@@ -15,4 +15,4 @@ Running the command multiple times is idempotent—it will not change any existi
 ## Examples
 
 - `./search.sh 2019-12-31 ha "public hospital.*(wuhan|covid)"`
-- `./search.sh 2019-12-31 chp "CHP.*(pneumonia|coronavirus|COVID-19)"`
+- `./search.sh 2019-12-31 chp "CHP.*(pneumonia|coronavirus|COVID-19|12258)"`
